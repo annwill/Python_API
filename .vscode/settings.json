@@ -1,0 +1,14 @@
+{
+    //"python.pythonPath":"C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python37",   
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+
+    "[python]":{  // 加入這幾行
+        "editor.formatOnType": true,
+        "editor.formatOnSave": true,
+        "editor.renderIndentGuides": true,
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": true,
+        "editor.tabSize": 4
+    }
+}
